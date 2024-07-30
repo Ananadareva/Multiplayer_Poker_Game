@@ -1,2 +1,2 @@
 # ProjectGamePoker
-Buat TB UAS PBO
+Tugas Besar UAS Mata Kuliah PBO (SMS 4)
